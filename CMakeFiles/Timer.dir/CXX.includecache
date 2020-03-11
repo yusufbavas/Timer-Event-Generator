@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yusuf/Desktop/RT/hw1/151044018/src/Timer.cpp
+Timer.hpp
+/home/yusuf/Desktop/RT/hw1/151044018/src/Timer.hpp
+iostream
+-
+
+/home/yusuf/Desktop/RT/hw1/151044018/src/main.cpp
+iostream
+-
+string
+-
+Timer.hpp
+/home/yusuf/Desktop/RT/hw1/151044018/src/Timer.hpp
+
+inc/ITimer.hpp
+chrono
+-
+functional
+-
+
+inc/Timer.hpp
+ITimer.hpp
+inc/ITimer.hpp
+condition_variable
+-
+thread
+-
+queue
+-
+mutex
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Timer.dir/src/Timer.cpp.o CMakeFiles/Timer.dir/src/main.cpp.o  -o Timer -pthread 
